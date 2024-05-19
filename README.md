@@ -5,19 +5,20 @@
 
 
 <p>
-    <img src="https://github.com/amitkumarbiswas2001/my-github-images/blob/main/laravel-roles-permissions-manager/80e570b2-e396-42bd-ac86-d55f2fe5176d.PNG"/>
+    ![classification](https://github.com/Mmaheshbabu123/ifo-laravel-roles-manager/assets/29708637/eff9d7f7-d9b2-4814-bfd6-dffe3d4c9646)
+
+</p>
+![permssion](https://github.com/Mmaheshbabu123/ifo-laravel-roles-manager/assets/29708637/72253683-f454-4e8c-90cb-2846fba729c8)
+<hr />
+
+<p>
+   ![roles](https://github.com/Mmaheshbabu123/ifo-laravel-roles-manager/assets/29708637/6a81a4dd-ae08-4ba0-939d-1cb03dabe2ec)
 </p>
 
 <hr />
 
 <p>
-    <img src="https://github.com/amitkumarbiswas2001/my-github-images/blob/main/laravel-roles-permissions-manager/98580690-3a76-46b4-8a64-83e7e9534e05.PNG"/>
-</p>
-
-<hr />
-
-<p>
-    <img src="https://github.com/amitkumarbiswas2001/my-github-images/blob/main/laravel-roles-permissions-manager/ed31028c-86a0-4266-a641-d17a577de6f1.PNG"/>
+    
 </p>
 
 
