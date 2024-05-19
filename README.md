@@ -33,7 +33,8 @@
 [MIT license](https://opensource.org/licenses/MIT).
 
 ## Usage
-This is not a package - it's a full Laravel project that you should use as a starter boilerplate, and then add your own custom functionality.
+This is a package - it's a full Laravel project that you should use as a starter boilerplate, and then add your own custom functionality.
+Here in this package can create roles and manager using the classification and permission manager.
 
 <ul>
     <li>Clone the repository with <code>git clone</code></li>
