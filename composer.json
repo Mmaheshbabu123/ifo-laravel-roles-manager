@@ -1,5 +1,5 @@
 {
-    "name": "ifo/laravel",
+    "name": "ifo/laravel-roles-permission-manager",
     "type": "project",
     "description": "The ifo/Laravel roles and manager.",
     "keywords": [
