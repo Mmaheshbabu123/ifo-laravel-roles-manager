@@ -5,20 +5,22 @@
 
 
 <p>
-   https://github.com/Mmaheshbabu123/ifo-laravel-roles-manager/assets/29708637/eff9d7f7-d9b2-4814-bfd6-dffe3d4c9646
+  ![classification](https://github.com/Mmaheshbabu123/ifo-laravel-roles-manager/assets/29708637/18350c3f-80e0-47b0-bd7b-ebf143e371e5)
+
 
 </p>
-https://github.com/Mmaheshbabu123/ifo-laravel-roles-manager/assets/29708637/72253683-f454-4e8c-90cb-2846fba729c8
+
+
+<p>
+  ![permssion](https://github.com/Mmaheshbabu123/ifo-laravel-roles-manager/assets/29708637/226e5659-9346-4645-b697-14f385e5d6b8)
+
+</p>
+
 <hr />
 
 <p>
-  https://github.com/Mmaheshbabu123/ifo-laravel-roles-manager/assets/29708637/6a81a4dd-ae08-4ba0-939d-1cb03dabe2ec
-</p>
-
-<hr />
-
-<p>
-    
+   ![roles](https://github.com/Mmaheshbabu123/ifo-laravel-roles-manager/assets/29708637/29e35fe7-f51c-418b-b391-01a7c2f51eae)
+ 
 </p>
 
 
