@@ -5,14 +5,14 @@
 
 
 <p>
-    ![classification](https://github.com/Mmaheshbabu123/ifo-laravel-roles-manager/assets/29708637/eff9d7f7-d9b2-4814-bfd6-dffe3d4c9646)
+   https://github.com/Mmaheshbabu123/ifo-laravel-roles-manager/assets/29708637/eff9d7f7-d9b2-4814-bfd6-dffe3d4c9646
 
 </p>
-![permssion](https://github.com/Mmaheshbabu123/ifo-laravel-roles-manager/assets/29708637/72253683-f454-4e8c-90cb-2846fba729c8)
+https://github.com/Mmaheshbabu123/ifo-laravel-roles-manager/assets/29708637/72253683-f454-4e8c-90cb-2846fba729c8
 <hr />
 
 <p>
-   ![roles](https://github.com/Mmaheshbabu123/ifo-laravel-roles-manager/assets/29708637/6a81a4dd-ae08-4ba0-939d-1cb03dabe2ec)
+  https://github.com/Mmaheshbabu123/ifo-laravel-roles-manager/assets/29708637/6a81a4dd-ae08-4ba0-939d-1cb03dabe2ec
 </p>
 
 <hr />
