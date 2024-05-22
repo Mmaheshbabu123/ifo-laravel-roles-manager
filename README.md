@@ -1,5 +1,5 @@
 ## ifo/Laravel Roles Permissions Manager
-<h5>Laravel Version : 8</h5>
+<h5>Laravel Version : ^9</h5>
 <hr />
 <h4>Previews</h4>
 
