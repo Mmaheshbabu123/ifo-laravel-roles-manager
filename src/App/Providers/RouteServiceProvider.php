@@ -32,7 +32,8 @@ class RouteServiceProvider extends ServiceProvider
     {
         Route::middleware('web')
             ->namespace($this->namespace)
-            ->group(base_path('packages/RoleManager/src/routes/web.php'));
+            ->group(__DIR__ .'../../routes/web.php');
+           // ->group(base_path('packages/RoleManager/src/routes/web.php'));
     }
 
     protected function mapApiRoutes()
@@ -40,7 +41,8 @@ class RouteServiceProvider extends ServiceProvider
         Route::prefix('api')
             ->middleware('api')
             ->namespace($this->namespace)
-            ->group(base_path('packages/RoleManager/src/routes/api.php'));
+            ->group(__DIR__ .'../../routes/api.php');
+            //->group(base_path('packages/RoleManager/src/routes/api.php'));
     }
     /**
      * The controller namespace for the application.
