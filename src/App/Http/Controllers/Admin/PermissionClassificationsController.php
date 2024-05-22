@@ -48,7 +48,7 @@ class PermissionClassificationsController extends Controller
     {
         Permission::create($request->validated());
 
-        return redirect()->route('role-manager::admin.permission_classfications.index')->with('status-success','New Permission Created');
+        return redirect()->route('admin.permission_classfications.index')->with('status-success','New Permission Created');
     }
 
 

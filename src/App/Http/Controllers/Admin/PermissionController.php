@@ -50,7 +50,7 @@ class PermissionController extends Controller
     {
         Permission::create($request->validated());
 
-        return redirect()->route('role-manager::admin.permissions.index')->with('status-success','New Permission Created');
+        return redirect()->route('admin.permissions.index')->with('status-success','New Permission Created');
     }
 
 
