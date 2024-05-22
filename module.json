@@ -1,0 +1,14 @@
+{
+    "name": "RoleManager",
+    "alias": "rolemanager",
+    "description": "",
+    "keywords": [],
+    "priority": 0,
+    "providers": [
+        "Packages\\RoleManager\\Providers\\RoleManagerServiceProvider"
+    ],
+    "aliases": {},
+    "files": [],
+    "requires": [],
+    "namespace":"Packages\\RoleManager\\"
+}

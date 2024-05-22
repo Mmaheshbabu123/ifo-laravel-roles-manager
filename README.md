@@ -1,23 +1,29 @@
-## Laravel Roles Permissions Manager
+## ifo/Laravel Roles Permissions Manager
 <h5>Laravel Version : 8</h5>
 <hr />
 <h4>Previews</h4>
 
 
 <p>
-    <img src="https://github.com/amitkumarbiswas2001/my-github-images/blob/main/laravel-roles-permissions-manager/80e570b2-e396-42bd-ac86-d55f2fe5176d.PNG"/>
+  
+  ![classification](https://github.com/Mmaheshbabu123/ifo-laravel-roles-manager/assets/29708637/18350c3f-80e0-47b0-bd7b-ebf143e371e5)
+
+
+</p>
+
+
+<p>
+ 
+  ![permssion](https://github.com/Mmaheshbabu123/ifo-laravel-roles-manager/assets/29708637/226e5659-9346-4645-b697-14f385e5d6b8)
+
 </p>
 
 <hr />
 
 <p>
-    <img src="https://github.com/amitkumarbiswas2001/my-github-images/blob/main/laravel-roles-permissions-manager/98580690-3a76-46b4-8a64-83e7e9534e05.PNG"/>
-</p>
-
-<hr />
-
-<p>
-    <img src="https://github.com/amitkumarbiswas2001/my-github-images/blob/main/laravel-roles-permissions-manager/ed31028c-86a0-4266-a641-d17a577de6f1.PNG"/>
+   
+  ![roles](https://github.com/Mmaheshbabu123/ifo-laravel-roles-manager/assets/29708637/29e35fe7-f51c-418b-b391-01a7c2f51eae)
+ 
 </p>
 
 
@@ -27,7 +33,8 @@
 [MIT license](https://opensource.org/licenses/MIT).
 
 ## Usage
-This is not a package - it's a full Laravel project that you should use as a starter boilerplate, and then add your own custom functionality.
+This is a package - it's a full Laravel project that you should use as a starter boilerplate, and then add your own custom functionality.
+Here in this package can create roles and manager using the classification and permission manager.
 
 <ul>
     <li>Clone the repository with <code>git clone</code></li>
@@ -54,3 +61,4 @@ We are not responsible for any functionality or bugs in Monsteradmin & Others pa
 <p><b>Development : </b> Mahesh Babu Manikanti</p>
 <br><br>
 Thanks For Downloading
+
