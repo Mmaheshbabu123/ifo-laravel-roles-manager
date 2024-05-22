@@ -1,20 +1,26 @@
 {
-    "name": "Infanion/rolemanager",
-    "description": "",
-    "authors": [
-        {
-            "name": "Infanion",
-            "email": "infanion@gmail.com"
-        }
+    "name": "ifo/laravel-roles-permission-manager",
+    
+    "description": "The ifo/Laravel roles and manager.",
+    "keywords": [
+        "framework",
+        "laravel"
     ],
-
+    "license": "MIT",
+   
+    "config": {
+        "optimize-autoloader": true,
+        "preferred-install": "dist",
+        "sort-packages": true
+    },
+   
     "autoload": {
         "psr-4": {
-             "Packages\\RoleManager\\": "src/"
+             "Packages\\RoleManager\\": "src/",
              "Packages\\RoleManager\\Database\\Seeders\\": "Packages/RoleManager/Database/Seeders/"
 
         }
-    }
+    },
     "extra": {
         "laravel": {
             "providers": [
@@ -24,5 +30,5 @@
 
             }
         }
-    },
+    }
 }
