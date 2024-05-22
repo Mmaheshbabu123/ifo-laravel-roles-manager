@@ -41,7 +41,13 @@ Here in this package can create roles and manager using the classification and p
     <li>Copy <code>.env.example</code> file to <code>.env</code> and edit database credentials there</li>
     <li>Run <code>composer install</code></li>
     <li>Run <code>php artisan migrate</code></li>
-    <li>Run <code>php artisan db:seed</code></li>
+    <li>To run db:seed please run below command to store default permissions and users data</li>
+    <li>Run <code>php artisan db:seed --class="Packages\\RoleManager\\Database\\Seeders\\DatabaseSeeder"</code></li>
+    <li> Go to root project public folder then Please run below symbolic link creation for pointing to package public folder </li>
+    <li>ln -s ../vendor/ifo/laravel-roles-permission-manager/src/public role-manager</li>
+    <li>Please add below middleware in kernal.php  file inside web middleware group for registering the Auth gate middleware to api.php file</li>
+    <li>\Packages\RoleManager\App\Http\Middleware\AuthGates::class,</li>
+    
     <li>Run <code>php artisan key:generate</code></li>
 </ul>
 
