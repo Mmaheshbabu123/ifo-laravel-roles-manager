@@ -54,7 +54,8 @@ With that user you can create more roles/permissions/users, and then use them in
 
 <b>Your will be get Login Credentials from seeder file</b> <br>
 --- &lt;root-project&gt; / database / seeders / UsersTableSeeder.php <br>
-
+<b>Run below url to navigate to roles manager</b><br>
+ http://127.0.0.1:8000/ifo-roles
 ## Notice
 We are not responsible for any functionality or bugs in Monsteradmin & Others packages or their future versions, if you find bugs there - please contact vendors directly.
 
